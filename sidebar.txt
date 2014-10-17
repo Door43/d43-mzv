@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mzv:home|Door43 (mzv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mzv|d43-mzv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mzv/archive/master.zip|d43-mzv.zip]]
+
+**Recent Changes**
+{{changes>ns = mzv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mzv|Ethnologue data]]
+
